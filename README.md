@@ -1,5 +1,5 @@
 
-# DuckRace - A C++ Console Game
+# DuckRacer!!! - A C++ Console Game
 
 This was one of my first big projects in C++ that I completed as both a learning exercise and a passion project. Created in Spring 2022, this game remains one of my favorite pieces of code! I managed to incorporate random map generation, two-player support, and even a rudimentary AI. However, I couldn't figure out how to implement a proper framerate, so the AI only moves when you do, making the game run as fast as you can press keys—haha.
 
@@ -7,7 +7,7 @@ This was one of my first big projects in C++ that I completed as both a learning
 
 - **Random Track Generation:** Each game presents a different track layout, providing a fresh experience every time.
 - **Two-Player Support:** Enjoy local 2-player mode with a friend.
-- **Rudimentary AI:** A basic AI opponent is available for single-player mode. It may not be very smart, but it adds an extra challenge!
+- **AI:** A basic AI opponent is available for "0-player" mode.  
 
 ## Compilation Instructions
 
