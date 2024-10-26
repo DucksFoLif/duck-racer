@@ -26,7 +26,7 @@ To compile and run this project, you'll need a C++ compiler like `g++`. The code
 2. **Compile:** Open a terminal in the project directory and run:
 
    ```bash
-   g++ -o DuckRacer!! DuckRacer4.0.cpp -std=c++11
+   g++ -o DuckRacer DuckRacer4.0.cpp -std=c++11
    ```
 
 3. **Run:** Once compiled, start the game with:
