@@ -1,6 +1,6 @@
-DuckRacer!!! - A C++ Console Game
+DuckRace - A C++ Console Game
 
-This was one of my first big projects in C++ that I did as an exercise in both learning and because I really wanted to make my own game, but only really had these as my tools. I did it in the spring of 2022 and it is one of my favorite pieces of code that I've made so far! I especially love how I managed to add random map generation, 2 players, and a rudimentary AI. However, I could not figure out how to make the game have a proper framerate, so the AI only moves whenever you do, making the game run as fast as you can press keys—haha.
+This was one of my first big projects in C++ that I did as an exercise in both learning and because I really wanted to make my own game, but only really had these as my tools. I did it in the spring of 2022 and it is one of my favorite pieces of code that I've made so far! I especially love how I managed to add random map generation, 2 players, and a rudimentary AI. However, I could not figure out how to make the game have a proper framerate, so the AI only moves whenever you do, making the game run as fast as you can press keys haha.
 
 Features
 
@@ -69,4 +69,8 @@ Enhancing the graphics to be more visually appealing even in a text-based format
 License
 
 Feel free to use or modify this code as you wish. It's an exercise in learning, and I hope it can help others who are learning too!
+
+Credits
+
+This project was created by Justin Brower in Spring 2022 as a way to learn more about C++ and game development basics.
 
